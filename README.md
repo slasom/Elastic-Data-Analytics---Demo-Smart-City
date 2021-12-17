@@ -9,7 +9,7 @@
 ## Video DEMO
 https://drive.google.com/file/d/1JygybU3-RO7u--a_Ss4Ooc7ZBg6iuDXE/view?usp=sharing
 
-[![Watch the video](https://iili.io/76Vjwb.th.png)](https://drive.google.com/file/d/1JygybU3-RO7u--a_Ss4Ooc7ZBg6iuDXE/view?usp=sharing)
+[![Watch the video](https://iili.io/76Vjwb.png)](https://drive.google.com/file/d/1JygybU3-RO7u--a_Ss4Ooc7ZBg6iuDXE/view?usp=sharing)
 
 ### Running the server
 To run the server, run:
