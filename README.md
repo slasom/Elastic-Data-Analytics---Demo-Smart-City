@@ -13,6 +13,7 @@ The architecture is formed by the Orchestrator and 9 Data Aggregators distribute
 - **Orchestrator:** the source code is located inside the *Orchestrator* directory.
 - **Data Aggregators:** the source code for one of them is located in the *DataAggregators* directory. The difference between each of them is only in the identification of each one to be able to communicate correctly.
 - **End Devices:** The source code of the application used by the end devices is located in the *CitizenHeatmap-Android* directory. The application is also compiled in the root repository as *CitizenHeatmap-Android.apk*.
+- **Dashboard:** To visualize the results, the *dashboard.html* has been created where the result is inserted into maps. The dashboard is developed to show the analytics from 1 to 6.
 
 ## Video DEMO
 [![Watch the video](https://iili.io/76Vjwb.png)](https://youtu.be/qKQ7wL8rwxs)
