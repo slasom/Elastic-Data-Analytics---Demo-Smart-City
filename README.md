@@ -3,6 +3,9 @@
 ## Architecture Overview
 ![alt text](ArchitectureOverview.png "Architecture Overview")
 
+### Components
+
+
 ## Video DEMO
 https://drive.google.com/file/d/1JygybU3-RO7u--a_Ss4Ooc7ZBg6iuDXE/view?usp=sharing
 
